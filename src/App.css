@@ -1,1 +1,9 @@
 @charset "UTF-8";
+
+.IMAGEM{
+    height: 442px;
+
+    background-image: url(./components/main/img/heroimg.jpg);
+    background-size: cover;
+    background-position: center;
+}
