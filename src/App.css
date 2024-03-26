@@ -7,3 +7,8 @@
     background-size: cover;
     background-position: center;
 }
+
+.RESORT{
+    min-width: 300px;
+    max-width: 400px;
+}
