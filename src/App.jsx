@@ -1,11 +1,12 @@
 import './App.css'
 
+import Header from './components/header/Header'
+
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1 className='text-cyan-400'>opa</h1>
+      <Header></Header>
     </>
   )
 }
