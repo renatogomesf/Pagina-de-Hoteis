@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-https://renatogomesf.github.io/pagina-de-hoteis/
+https://renatogomesf.github.io/Pagina-de-Resorts/
 
 Página desenvolvido logo após o término do curso de **Tailwind CSS** do canal [CFB Cursos](https://www.youtube.com/watch?v=1eLaBow7Zbo&list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u&index=1&ab_channel=TiagoMatos). A página é totalmente responsiva, se adaptando a vários tamanhos de telas.
 
