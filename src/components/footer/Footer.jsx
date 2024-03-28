@@ -16,6 +16,12 @@ export default function Footer() {
                     <FaInstagram className="text-gray-500 text-xl"  />
                 </div>
             </div>
+
+            <div className="pb-10 text-gray-600 text-center">
+                <p>Rua Qualquer, n° 0000, Cidade, Estado, Brasil.</p>
+
+                <p>CPNJ: XX.XXX.XXX/0001-XX</p>
+            </div>
         </footer>
     )
 }
