@@ -10,7 +10,6 @@ import Informacoes from './pages/informacoes/Informacoes'
 import Contato from './pages/contatos/Contatos'
 
 import { Routes, Route } from 'react-router-dom'
-import { RiH1 } from 'react-icons/ri'
 
 function App() {
 
@@ -18,7 +17,7 @@ function App() {
     <>
       <Header></Header>
       <Routes>
-        <Route path='/pagina-de-hoteis/' element={<Main/>}/>
+        <Route path='/Pagina-de-Resorts/' element={<Main/>}/>
         <Route path='/comoreservar' element={<ComoReservar/>}/>
         <Route path='/sobrenos' element={<SobreNos/>}/>
         <Route path='/informacoes' element={<Informacoes/>}/>
