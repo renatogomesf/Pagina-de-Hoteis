@@ -8,7 +8,7 @@ https://renatogomesf.github.io/pagina-de-hoteis/
 
 Página desenvolvido logo após o término do curso de **Tailwind CSS** do canal [CFB Cursos](https://www.youtube.com/watch?v=1eLaBow7Zbo&list=PLcoYAcR89n-r1m-tMfV4qndrRWpT_rb9u&index=1&ab_channel=TiagoMatos). A página é totalmente responsiva, se adaptando a vários tamanhos de telas.
 
-O projeto consiste em uma página onde busca auxiliar e facilitar a busca por hoteis e resorts em uma determinada região definida pelo usuário.
+O projeto consiste em uma página onde busca auxiliar e facilitar a busca por resorts em uma determinada região definida pelo usuário.
 
 ## Layout mobile
 
@@ -26,7 +26,7 @@ O projeto consiste em uma página onde busca auxiliar e facilitar a busca por ho
 
 ## Como usar
 
-Logo no topo, há uma barra de navegação na qual é possível alternar entre as páginas de acordo com sua necessidade.
+Logo no topo, há uma barra de navegação na qual é possível alternar entre as páginas de acordo com sua necessidade. Foi utilizado react-router-dom para poder navegar entre as páginas. Desta forma, o usuário tem uma experiência mais agradável.
 
 No banner principal, abaixo do header, há um pequeno formulário de opções onde é possível escolher um estado e uma cidade e pesquisar por resorts. numa aplicação real, levaria para uma lista de resorts.
 
