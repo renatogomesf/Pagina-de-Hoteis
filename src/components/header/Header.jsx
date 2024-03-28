@@ -29,7 +29,7 @@ export default function Header() {
 
     return (
         <header className="container mx-auto px-4 h-24 flex items-center justify-between relative">
-            <Link to={"/pagina-de-hoteis"}>
+            <Link to={"/pagina-de-hoteis/"}>
                 <div className="font-black text-2xl text-slate-600">Logo</div>
             </Link>
             <nav>
