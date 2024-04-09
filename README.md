@@ -18,21 +18,12 @@ O projeto consiste em uma página onde busca auxiliar e facilitar a busca por re
 
 ![web 1](https://raw.githubusercontent.com/renatogomesf/imagens-projetos/main/imagens/p%C3%A1gina%20de%20hoteis/web-1.png) ![web 2](https://raw.githubusercontent.com/renatogomesf/imagens-projetos/main/imagens/p%C3%A1gina%20de%20hoteis/web-2.png)
 
-## Tecnologias utilizadas
+## Tecnologias
+Essas são as tecnologías utilizadas no projeto:
 
 * React.js
 * Tailwind
 * JavaScript
-
-## Como usar
-
-Logo no topo, há uma barra de navegação na qual é possível alternar entre as páginas de acordo com sua necessidade. Foi utilizado react-router-dom para poder navegar entre as páginas. Desta forma, o usuário tem uma experiência mais agradável.
-
-No banner principal, abaixo do header, há um pequeno formulário de opções onde é possível escolher um estado e uma cidade e pesquisar por resorts. numa aplicação real, levaria para uma lista de resorts.
-
-Logo abaixo, é possível ver o resort em destaque e reservar uma estadia nele no botão abaixo.
-
-Por fim, há uma seção com mais opções de resorts e mais um formulário, onde é possível pesquisar por resorts.
 
 ## Autor
 
