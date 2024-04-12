@@ -25,6 +25,12 @@ Essas são as tecnologías utilizadas no projeto:
 * Tailwind
 * JavaScript
 
+## Bibliotecas
+Essas são as bibliotecas utilizadas no projeto:
+
+* [React Icons](https://react-icons.github.io/react-icons/)
+* [React Router](https://reactrouter.com/en/main)
+
 ## Autor
 
 Renato Gomes Ferreira
